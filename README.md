@@ -3,7 +3,7 @@
 # 🎮 Game Roulette Monitor
 
 <p align="center">
-  <img src="GameRouletteMonitor/main/banner.png" width="700" alt="Game Roulette Monitor">
+  <img src="banner.png" width="700" alt="Game Roulette Monitor">
 </p>
 
 ### 🎲 A lightweight Windows tool for random game selection and real-time performance monitoring
