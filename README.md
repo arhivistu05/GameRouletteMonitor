@@ -2,6 +2,10 @@
 
 # 🎮 Game Roulette Monitor
 
+<p align="center">
+  <img src="assets/banner.png" width="700" alt="Game Roulette Monitor">
+</p>
+
 ### 🎲 A lightweight Windows tool for random game selection and real-time performance monitoring
 
 </div>
