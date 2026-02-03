@@ -103,8 +103,6 @@ Feedback is welcome and can be sent in two ways:
 
 ---
 
----
-
 ## 🔮 Upcoming Features
 
 * **AMD GPU Support (Planned)**
