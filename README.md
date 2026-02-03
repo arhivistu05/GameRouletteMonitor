@@ -49,7 +49,7 @@ If the game name contains **"League Of Legends"**, the application enables a mul
 
 ## 🖥️ How It Works
 
-1. User selects multiple game shortcuts
+1. User selects twenty game shortcuts
 2. One shortcut is chosen at random
 3. The game is launched
 4. User provides the game name and process PID
