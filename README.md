@@ -95,6 +95,7 @@ If the game name contains **"League Of Legends"**, the application enables a mul
 * Administrator privileges (recommended)
 * NVIDIA GPU (for GPU temperature monitoring)
 * Windows SDK - https://learn.microsoft.com/en-us/windows/apps/windows-sdk/downloads
+* Visual Studio (only to avoid errors before running the program)
 * `PresentMon.exe` located in the same directory as the executable
 
 ---
